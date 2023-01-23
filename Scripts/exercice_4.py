@@ -24,3 +24,5 @@ t1 = Thread(target=f1, args = ())
 t2 = Thread(target=f2, args = ())
 t1.start ()
 t2.start ()
+# il y a une situation d'interblocage si les deux section sont verouiller mais on s'appelle egalement
+ 
