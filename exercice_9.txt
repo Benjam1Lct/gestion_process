@@ -1,0 +1,3 @@
+Si les deux transaction debute au meme moment il y a interblocage
+car la transation1 aura la ressource T et demandera S
+et la transaction2 aura la ressrouce S et demandera T

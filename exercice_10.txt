@@ -1,0 +1,9 @@
+Partie A:
+
+1. Si les trois processus obtienne chacun leur premiere ressource 
+alors il y a interbloquage
+2. Il faut inverser les deux requetes de ressources 'imprimante' & 'table traçante'
+3. Le processus est prêt
+
+Partie B:
+
