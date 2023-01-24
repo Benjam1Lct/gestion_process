@@ -1,5 +1,5 @@
-# coding: utf-8
 from PIL import Image
+# coding: utf-8
 
 def couleur_moyenne(img):
     """
@@ -67,6 +67,6 @@ def traitement(nom_img):
     return cadre(imageSource)
     
 if __name__ == '__main__':
-    imageBut = traitement('1.jpg')
+    imageBut = traitement('U:/github/gestion_process-1/Scripts/Exercice_7/1.jpg')
     imageBut.show() # affichage de l’image
 

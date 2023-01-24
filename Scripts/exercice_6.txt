@@ -1,0 +1,7 @@
+les processus sont les conducteurs
+les ressources sont le fait de s'engager
+
+Premiere condition remplie: chaque conducteur souhaite chacun s'engager
+Deuxieme condition remplie: les conducteur ne peuvent pas s'engager face au autre pour eviter les accidents
+Troisieme condition remplie: chaque conducteur detient sa ressource (lui meme sait se qu'il fait) mais il ne detient pas les ressource indiquant que les autres conducteur doivent le laisser s'engager
+Quatrieme condition remplie: chaque conducteur attend que son voisin de droite s'engage
